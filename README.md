@@ -1,2 +1,1 @@
-# course website:
-# https://sp18.datastructur.es/
+https://sp18.datastructur.es/
